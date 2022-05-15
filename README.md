@@ -29,15 +29,14 @@
 <a href="https://www.nodejs.org">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" alt="NodeJS's original logo">
 </a>
+<a href="https://www.npmjs.com">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="32" alt="NPM's original wordmark logo">
+</a>
 <a href="https://discord.js.org">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="32" alt="DiscordJS's original logo">
 </a>
 <a href="https://eslint.org">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="32" alt="Eslint's original logo">
-</a>
-<a href="https://www.npmjs.com">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="32" alt="NPM's original wordmark logo">
-</a>
 </a>
 <a href="https://www.electronjs.org">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="32" alt="Electron's original logo">
@@ -80,8 +79,11 @@
 <a href="https://httpd.apache.org">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="32" alt="Apache's original logo">
 </a>
-<a href="https://github.com/torvalds/linux">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" alt="Linux's original logo">
+<a href="https://www.gnu.org/software/bash">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32" alt="Bash's original logo">
+</a>
+<a href="https://git-scm.com">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" alt="Git's original logo">
 </a>
 <h2>Stats</h2>
 <h3>Github</h3>
