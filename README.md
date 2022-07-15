@@ -7,6 +7,8 @@
 
 - 🤩 I want to learn **Flutter**, **GraphQL**
 
+- 🔥 I'm excited about [**Bun JS Runtime**](https://bun.sh)
+
 <h2>Languages, tools and frameworks that I use</h2>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34" alt="JavaScript's original logo">
@@ -49,6 +51,9 @@
 </a>
 <a href="https://reactjs.org">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" alt="React's original logo">
+</a>
+<a href="https://redux.js.org">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="34" alt="Redux's original logo">
 </a>
 <a href="https://nextjs.org">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="34" alt="NextJS's original logo">
